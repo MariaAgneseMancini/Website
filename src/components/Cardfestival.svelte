@@ -21,6 +21,8 @@
 		padding: 10px;
 		color: #14ff00;
 		font-family: sans-serif;
+		margin-top: 10px;
+		margin-bottom: 10px;
 
 		display: flex;
 		flex-direction: column;
@@ -42,7 +44,7 @@
 		background-color: #14ff00;
 		border-radius: 20px;
 		padding: 10px;
-		margin-top: 10px;
+		width: 200px;
 	}
 
 	.bottone {
